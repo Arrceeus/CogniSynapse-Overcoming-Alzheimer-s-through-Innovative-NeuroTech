@@ -29,7 +29,7 @@ This free webapp solution saves your time and money and it uses advanced technol
 
 # Main Features of our App :
 - Saves your money because the webapp is free to everyone all around the world!
-- Saves your time too! You can the technology anytime!
+- Saves your time too! You can use the technology anytime!
 - It's an All In One app, all the features are at your finger tip!
 - Virtual reality is being used to create immersive experiences that can trigger memories and improve cognitive function. For example, a virtual reality simulation of a childhood home or favorite vacation spot can help bring back memories and improve mood.
 - Daily Reminders
