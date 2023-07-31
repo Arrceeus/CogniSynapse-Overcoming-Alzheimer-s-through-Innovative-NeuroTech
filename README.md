@@ -11,6 +11,8 @@ This free webapp solution saves your time and money and it uses advanced technol
 - It affects an estimated 50 million people worldwide, with a new case diagnosed every three seconds. 
 - Early detection of Alzheimer's disease is crucial for effective treatment and management. Symptoms can be subtle in the early stages, making it difficult to diagnose. However, with early detection, patients can receive proper care and support, and their quality of life can be improved.
 
+### To overcome the worldwide impact of Alzheimer's Diseases. I have created a "Free and Accessible app : CogniSynapse" that is a web-based application accessible to all, eliminating financial barriers and ensuring that anyone can take charge of their brain health. 
+
 # Solutions
 - We have added MindNotes journal and it promotes brain plasticity and supports personal growth on cognitive and emotional levels.
 - Medication Tracker that reminds you with notifications like "Have you taken your morning medication?" You can add your medications, dosages, and frequency.
