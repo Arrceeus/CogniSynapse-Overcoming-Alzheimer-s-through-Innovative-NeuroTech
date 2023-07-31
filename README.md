@@ -31,3 +31,8 @@ This free webapp solution saves your time and money and it uses advanced technol
 - Memory Recall tests
 - MindNotes with flashcards
 - Cognition Assessment Tests : Verbal Reasoning, Numerical Reasoning. Logical Testing, Memory Recall and Pattern Recognition Tests
+- Free and Accessible: CogniSynapse is a web-based application accessible to all, eliminating financial barriers and ensuring that anyone can take charge of their brain health.
+- Advanced NeuroTech: The app utilizes cutting-edge NeuroTech technologies, including machine learning and artificial intelligence, to analyze cognitive data accurately.
+- Behavioral Analysis: CogniSynapse tracks subtle changes in behavior, which can be indicative of cognitive decline, allowing for timely intervention.
+- Memory Tracking: The app continuously monitors memory performance, identifying potential memory-related issues in its early stages.
+- Real-time Results: Rapid data analysis enables real-time feedback, ensuring users are promptly alerted if any concerning symptoms are detected.
