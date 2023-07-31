@@ -1,6 +1,6 @@
 # CogniSynapse : Overcoming Alzheimer's through Innovative NeuroTech
 This free webapp solution saves your time and money and it uses advanced technology to detect early symptoms of Alzheimer's disease. By analyzing data from cognitive tests and tracking changes in behavior and memory. This app can provide early detection and alert users to seek medical attention.
-
+- CogniSynapse is a game-changer in the battle against Alzheimer's, offering hope for early detection, intervention, and improved outcomes. 
 ### It's an All in One App with a tons of features!
 
 - Innovative technology is used here to improve the lives of those with Alzheimer's. Virtual reality and artificial intelligence are just two examples of how technology is being used to unlock memories and provide a better quality of life.
