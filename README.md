@@ -27,3 +27,4 @@ This free webapp solution saves your time and money and it uses advanced technol
 - Neuro Mini Games that will enhance your cognitions
 - Memory Recall tests
 - MindNotes with flashcards
+- Cognition Assessment Tests : Verbal Reasoning, Numerical Reasoning. Logical Testing, Memory Recall and Pattern Recognition Tests
