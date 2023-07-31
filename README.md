@@ -5,7 +5,7 @@ This free webapp solution saves your time and money and it uses advanced technol
 
 - Innovative technology is used here to improve the lives of those with Alzheimer's. Virtual reality and artificial intelligence are just two examples of how technology is being used to unlock memories and provide a better quality of life.
 
-# Importance of this innovation tech 
+# Importance of this Tech Innovation 
 - Alzheimer's is a progressive neurodegenerative disease that affects memory, thinking, and behavior.
 - It is the most common cause of dementia, accounting for 60-80% of cases. 
 - It affects an estimated 50 million people worldwide, with a new case diagnosed every three seconds. 
